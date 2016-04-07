@@ -9,18 +9,20 @@ WindowsXP以上
 Windows10にてのみ動作確認してます．
 
 AutoHotkeyのスクリプトなのでAutoHotkeyが動けば動くと思います．
-##ダウンロード
-下記URLからFactorioChat.exeをダウンロード
+##ダウンロード・インストール
+下記URLからzipファイルをダウンロード
 
-[https://github.com/takumaniihara/FactorioChat/raw/master/FactorioChat.exe](https://github.com/takumaniihara/FactorioChat/raw/master/FactorioChat.exe)
+[https://github.com/takumaniihara/FactorioChat/archive/master.zip](https://github.com/takumaniihara/FactorioChat/archive/master.zip)
+
+zipファイルを解凍し，任意の場所に保存してください
 
 ##使用方法
-起動+チャット送信
- 1. Factorioを起動してからFactorioChat.exeを起動
- 2. ゲームを開始したら`@`でチャット開始
- 3. 送信したい文字を打ったら`Enter`または`OK`ボタンを押して送信
+ - 起動+チャット送信
+  1. Factorioを起動してからFactorioChat.exeを起動
+  2. ゲームを開始したら`@`でチャット開始
+  3. 送信したい文字を打ったら`Enter`または`OK`ボタンを押して送信
 
-終了
+ - 終了
 
-  Factorioが終了したらFactorioChat.exeも終了します
+   Factorioが終了したらFactorioChat.exeも終了します
 
