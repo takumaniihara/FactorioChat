@@ -37,6 +37,7 @@ Loop
 		Send,{Enter}
 	}
 }
-
+;メッセージ表示
+MsgBox, Factorioが起動していないため終了します
 ;プログラム終了
 ExitApp
