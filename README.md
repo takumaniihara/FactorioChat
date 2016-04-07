@@ -6,15 +6,15 @@ Factorio 0.12.29のゲーム内チャットでは日本語入力ができない�
 ##動作環境
 WindowsXP以上
 
-Windows10にてのみ動作確認してます．
+Windows10にてのみ動作確認
 
-AutoHotkeyのスクリプトなのでAutoHotkeyが動けば動くと思います．
 ##ダウンロード・インストール
 下記URLからzipファイルをダウンロード
 
 [https://github.com/takumaniihara/FactorioChat/archive/master.zip](https://github.com/takumaniihara/FactorioChat/archive/master.zip)
 
-zipファイルを解凍し，任意の場所に保存してください
+zipファイルを解凍し，任意の場所に保存
+
 
 ##使用方法
  - 起動+チャット送信
@@ -25,6 +25,14 @@ zipファイルを解凍し，任意の場所に保存してください
  - 終了
 
    Factorioが終了したらFactorioChat.exeも終了します
+
+##AutoHotkeyのスクリプトとして実行したい場合
+
+ 1. AutoHotkeyを下記URLからダウンロードしてインストール
+
+   [https://autohotkey.com/](https://autohotkey.com/)
+ 2. facorio_chat.ahkを実行
+ 3. あとはexeを起動した場合と同じ
 
 ##ライセンス
 ```
